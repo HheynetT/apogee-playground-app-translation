@@ -1,7 +1,7 @@
 {
   "@@locale": "ee",
   "appName": "Apogee Playground",
-  "loginButton": "Submit",
+  "loginButton": "Kinnita",
   "name": "Name",
   "email": "Email",
   "password": "Password",
